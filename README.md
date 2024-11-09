@@ -16,10 +16,11 @@
 
 
 ### Project Overview
-![Screenshot 2024-11-08 124154](https://github.com/user-attachments/assets/9bb10fc5-38e1-4e1d-8389-f594784036e8)
-
 
 The Comprehensive Sales Performance Dashboard project provides an in-depth view of sales metrics across key dimensions like salesperson, state, city, product category, and region. It features insights into total revenue, order counts, average order value, and shipping frequency to support data-driven decision-making. This dashboard is designed to help teams analyze trends, optimize sales strategies, and enhance operational effectiveness by highlighting performance across various geographic and product segments.
+
+![Screenshot 2024-11-08 124154](https://github.com/user-attachments/assets/b5152e8d-7726-412a-ba02-2fe844d842bc)
+
 
 ### Data Source
 
