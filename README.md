@@ -93,6 +93,8 @@ Based on the data in your sales performance dashboard, here are some recommendat
 
 With only aggregate data, there’s limited information on customer demographics, preferences, or purchasing behavior. This makes it challenging to tailor sales strategies to specific customer needs or to identify key customer segments.
 
+This is the link to the dashboard _**[Here](https://haqtec-my.sharepoint.com/:x:/g/personal/tunde_haqtec_onmicrosoft_com/EfYlG2cp8T1Fpnxr_QY7KxIBLkfr25bqb520C1_xsR0IyQ)**_
+
 ### Reference
 
 Data Visualization Best Practices: Few, S. (2006). Information Dashboard Design: The Effective Visual Communication of Data. This book covers best practices for designing dashboards that effectively communicate key information to users.
